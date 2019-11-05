@@ -87,6 +87,8 @@ public class Test : MonoBehaviour {
             lastboss.Magic();
         }
 
+        lastboss.Magic();
+
     }
 	
 	// Update is called once per frame

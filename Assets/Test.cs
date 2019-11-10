@@ -17,7 +17,7 @@ public class Boss
     public void Magic()
     {
 
-        if (this.mp < 4)
+        if (this.mp <= 4)
         {
             Debug.Log("MPが足りないため魔法が使えない。");
         }
